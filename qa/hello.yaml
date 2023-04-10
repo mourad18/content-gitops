@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: mourad18/flux-gitops:hellov1.0
+        image: acgtes/gitops:hellov1.1
